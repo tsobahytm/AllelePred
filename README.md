@@ -1,1 +1,2 @@
 # AllelePred
+AllelePred was developed to identify deleterious SNVs and disease causative genes. In comparison to other tools, our classifier achieves higher accuracy, precision, F1 score, and coverage for different types of coding variants. The new method was also compared against bioinformatics analytical workflow, which uses gnomAD overall AFs (less than 1%) and CADD (scaled C-score of at least 15). 
